@@ -1,4 +1,4 @@
-baseURL = "https://peiyanalysis.github.io/"
+baseURL = "https://peiyanalysis.github.io"
 languageCode = "en-us"
 title = "Braindump"
 theme = "cortex"
