@@ -1,5 +1,5 @@
 baseURL = "https://peiyanalysis.github.io"
 languageCode = "en-us"
-title = "Parition of unity"
+title = "Brain"
 theme = "cortex"
 publishDir = "docs"
